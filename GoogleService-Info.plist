@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235110028300-hoa8mp5uc1a5vnc59gac408ote5es5pi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235110028300-hoa8mp5uc1a5vnc59gac408ote5es5pi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmIUUv2P-Lwf9mY_0UEW04vGj93UuEUBs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235110028300</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pampilo.JournalApp</string>
+	<key>PROJECT_ID</key>
+	<string>epistlefire</string>
+	<key>STORAGE_BUCKET</key>
+	<string>epistlefire.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235110028300:ios:e6c65f08056fd6bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://epistlefire.firebaseio.com</string>
+</dict>
+</plist>
